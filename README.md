@@ -1,6 +1,6 @@
 # Machine_learning_form_Scratch
  try to create an ML algorithm from Scratch
- 1. Linear regression 
+ 1. Linear regression (done)
  2. Logistic regression
  3. Naive Bayes
  4. Nearest neighbors
